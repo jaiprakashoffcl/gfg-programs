@@ -10,7 +10,7 @@ Problems are organized based on **difficulty levels**:
 - **Basic**
 - **Easy**
 - **Medium**
-- **Hard** *(Coming soon)*
+- **Hard**
 
 Each folder contains solutions to multiple GFG problems updated regularly.
 
