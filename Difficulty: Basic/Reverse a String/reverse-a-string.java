@@ -1,13 +1,10 @@
-// User function Template for Java
-
 class Solution {
-    public static String reverseString(String s) {
-        // code here
-        StringBuilder temp = new StringBuilder(s);
+    static String revStr(String s) {
         
-        temp.reverse();
+        StringBuilder sb = new StringBuilder(s);
         
-        String reverseString = temp.toString();
-        return reverseString;
+        sb.reverse();
+        
+        return sb.toString();
     }
 }
